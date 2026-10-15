@@ -1,0 +1,50 @@
+5 game nen choi, on dinh, de bam phim
+Chay lenh trong PowerShell tai thu muc: C:\chip8-final
+
+Phim chung:
+- ESC: thoat game
+- CHIP-8 key 4: mui ten trai / A / Q
+- CHIP-8 key 5: W
+- CHIP-8 key 6: mui ten phai / D / E
+- CHIP-8 key 1: phim 1
+- CHIP-8 key 8: S
+- CHIP-8 key 0: X
+
+1. Space Invaders
+Lenh:
+.\build\chip8.exe 12 4 "roms\Space Invaders [David Winter].ch8"
+Cach choi:
+- Nhan W de bat dau / ban dan
+- Mui ten trai hoac A/Q de di trai
+- Mui ten phai hoac D/E de di phai
+
+2. Tetris
+Lenh:
+.\build\chip8.exe 12 5 "roms\Tetris [Fran Dachille, 1991].ch8"
+Cach choi:
+- Mui ten trai hoac A/Q: xoay khoi
+- W: di chuyen sang trai
+- Mui ten phai hoac D/E: di chuyen sang phai
+- Phim 1: roi nhanh
+
+3. Blitz
+Lenh:
+.\build\chip8.exe 12 6 "roms\Blitz [David Winter].ch8"
+Cach choi:
+- W: tha bom
+- Muc tieu la pha cac toa nha truoc khi may bay va cham
+
+4. Submarine
+Lenh:
+.\build\chip8.exe 12 6 "roms\Submarine [Carmelo Cortez, 1978].ch8"
+Cach choi:
+- W: ban/thả bom xuong tau ngam
+- Ban trung tau ngam de ghi diem
+
+5. Dodge
+Lenh:
+.\build\chip8.exe 12 6 "roms\Dodge.ch8"
+Cach choi:
+- Mui ten trai hoac A/Q: di trai
+- Mui ten phai hoac D/E: di phai
+- Ne vat roi tu tren xuong

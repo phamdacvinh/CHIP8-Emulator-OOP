@@ -1,0 +1,19 @@
+# ninja log v7
+36	588	8025103694880717	CMakeFiles/chip8.dir/src/Platform.cpp.obj	ff33080e24d10b76
+18	458	8025142578254845	CMakeFiles/chip8.dir/src/Chip8.cpp.obj	3a360072909cdf39
+30	1091	8025096375323315	CMakeFiles/chip8.dir/src/Main.cpp.obj	43651b01eef90cbb
+458	578	8025142582666535	chip8.exe	d105a552abe47bad
+16	1242	8033235193021672	CMakeFiles/chip8.dir/src/Chip8.cpp.obj	3a360072909cdf39
+12	1252	8033235192981970	CMakeFiles/chip8.dir/src/Platform.cpp.obj	ff33080e24d10b76
+8	1494	8033235192936518	CMakeFiles/chip8.dir/src/Main.cpp.obj	43651b01eef90cbb
+28	439	8033235493183770	chip8.exe	d105a552abe47bad
+18	945	8033235810699876	CMakeFiles/chip8.dir/src/Platform.cpp.obj	ff33080e24d10b76
+948	1087	8033235819995840	chip8.exe	d105a552abe47bad
+8	2380	8033240487864556	CMakeFiles/chip8.dir/src/Main.cpp.obj	43651b01eef90cbb
+2380	2558	8033240511587475	chip8.exe	d105a552abe47bad
+25	1926	8033240723215090	CMakeFiles/chip8.dir/src/Main.cpp.obj	43651b01eef90cbb
+1927	2082	8033240742236074	chip8.exe	d105a552abe47bad
+9	862	8041594687857081	CMakeFiles/chip8.dir/src/Platform.cpp.obj	ff33080e24d10b76
+13	863	8041594687897100	CMakeFiles/chip8.dir/src/Chip8.cpp.obj	3a360072909cdf39
+5	1340	8041594687817224	CMakeFiles/chip8.dir/src/Main.cpp.obj	43651b01eef90cbb
+1340	1825	8041594701173251	chip8.exe	d105a552abe47bad

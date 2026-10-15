@@ -1,0 +1,20 @@
+[
+{
+  "directory": "C:/chip8-final/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\chip8.dir\\src\\Main.cpp.obj -c C:\\chip8-final\\src\\Main.cpp",
+  "file": "C:/chip8-final/src/Main.cpp",
+  "output": "C:/chip8-final/build/CMakeFiles/chip8.dir/src/Main.cpp.obj"
+},
+{
+  "directory": "C:/chip8-final/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\chip8.dir\\src\\Platform.cpp.obj -c C:\\chip8-final\\src\\Platform.cpp",
+  "file": "C:/chip8-final/src/Platform.cpp",
+  "output": "C:/chip8-final/build/CMakeFiles/chip8.dir/src/Platform.cpp.obj"
+},
+{
+  "directory": "C:/chip8-final/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe -isystem C:/msys64/ucrt64/include/SDL2 -g -std=gnu++17 -o CMakeFiles\\chip8.dir\\src\\Chip8.cpp.obj -c C:\\chip8-final\\src\\Chip8.cpp",
+  "file": "C:/chip8-final/src/Chip8.cpp",
+  "output": "C:/chip8-final/build/CMakeFiles/chip8.dir/src/Chip8.cpp.obj"
+}
+]

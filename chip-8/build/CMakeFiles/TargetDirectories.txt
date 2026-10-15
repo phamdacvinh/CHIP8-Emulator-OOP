@@ -1,0 +1,3 @@
+C:/chip8-final/build/CMakeFiles/chip8.dir
+C:/chip8-final/build/CMakeFiles/edit_cache.dir
+C:/chip8-final/build/CMakeFiles/rebuild_cache.dir
